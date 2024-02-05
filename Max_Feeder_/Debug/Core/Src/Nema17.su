@@ -1,0 +1,5 @@
+Nema17.c:10:6:delay	16	static
+Nema17.c:15:6:Config_motor_Pin	24	static
+Nema17.c:23:6:Config_motor_caracteristicas	24	static
+Nema17.c:29:6:Movimiento_simultaneo	96	static
+Nema17.c:54:6:Movimiento_de_motor	88	static

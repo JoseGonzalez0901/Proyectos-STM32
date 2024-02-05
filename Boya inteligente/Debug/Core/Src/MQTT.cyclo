@@ -1,0 +1,6 @@
+../Core/Src/MQTT.c:14:14:FUNC_RESET	1
+../Core/Src/MQTT.c:33:5:Decoder	11
+../Core/Src/MQTT.c:101:14:FUNC_SEND_GPS	1
+../Core/Src/MQTT.c:107:14:FUNC_MQTT_CONNECT_SERVER	1
+../Core/Src/MQTT.c:128:14:FUNC_SEND_MQTT	1
+../Core/Src/MQTT.c:170:14:FUNC_Subscribirse_MQTT	1

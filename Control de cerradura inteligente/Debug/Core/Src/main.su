@@ -1,0 +1,13 @@
+main.c:86:5:reconocer	16	static
+main.c:116:5:agregar	16	static
+main.c:131:6:eliminar	24	static
+main.c:136:6:clean	16	static
+main.c:141:6:call	8	static
+main.c:155:5:main	48	static
+main.c:388:6:SystemClock_Config	144	static
+main.c:437:13:MX_I2C1_Init	8	static
+main.c:483:13:MX_SPI1_Init	8	static
+main.c:523:13:MX_USART2_UART_Init	8	static
+main.c:571:13:MX_GPIO_Init	56	static
+main.c:604:6:HAL_UART_RxCpltCallback	32	static
+main.c:660:6:Error_Handler	8	static,ignoring_inline_asm

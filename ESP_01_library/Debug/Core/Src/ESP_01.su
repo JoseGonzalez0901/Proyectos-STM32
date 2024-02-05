@@ -1,0 +1,9 @@
+../Core/Src/ESP_01.c:12:6:FUNC_WIFI_CONECTAR	168	static
+../Core/Src/ESP_01.c:26:6:FUNC_WIFI_CONFIGURAR_MODO	16	static
+../Core/Src/ESP_01.c:42:6:FUNC_MQTT_CONECTAR_SERVIDOR	168	static
+../Core/Src/ESP_01.c:66:6:FUNC_MQTT_PUBLICAR	168	static
+../Core/Src/ESP_01.c:81:6:FUNC_MQTT_SUBSCRIBIR	168	static
+../Core/Src/ESP_01.c:98:6:FUNC_ESP_RESET	160	static
+../Core/Src/ESP_01.c:105:6:Transmit	24	static
+../Core/Src/ESP_01.c:110:6:Enviar_Esp01	16	static
+../Core/Src/ESP_01.c:145:6:Recibir	16	static
